@@ -45,3 +45,6 @@ Difficult Level:
 	
 Yes, the amount of work required in this proposal is enough for five group members. Our Web APP requires food recipes API, GPS information, real-time group chat, and real-time updates of exercising status and so on.
 
+=======
+# Web-appliction
+CloudFitness is an online web application that enables users who want to lose weight or get fit to create their own calorie-reduced plan.
