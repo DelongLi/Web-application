@@ -1,0 +1,21 @@
+delete&modify
+cloudfitness/public/
+{
+	about-us.html			---> modify
+	classes-detail.html		---> delete
+	classes.html			---> delete
+	contact-us.html			---> delete
+	index.html			---> modify
+	news-detail.html		---> delete
+	news.html			---> delete
+	schedule.html			---> modify
+	trainers.html			---> delete
+}
+
+newfiles
+cloudfitness/public/
+{
+	login.html			---> new
+	register.html			---> new
+	workout-yip.html		---> new
+}

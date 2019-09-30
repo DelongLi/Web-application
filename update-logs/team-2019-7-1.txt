@@ -1,0 +1,22 @@
+cloudfitness/
+{
+	index.js			---> modify
+	node_modules			---> add some modules
+	package-lock.json		---> modify by add modules
+	package.json			---> modify by add modules
+	test.js 			---> delete
+	test				---> add
+	test/test.js 			---> add
+	test/new_test.js 		---> add
+}
+cloudfitness/public/
+{
+	admin.html			---> add
+	css/home.css 			---> add
+	customer.html 			---> add
+	index.html			---> delete
+	homepage.html			---> add
+	js/home.js 			---> add
+	Login.html			---> modify
+	register.html			---> modify
+}

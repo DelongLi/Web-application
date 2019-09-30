@@ -1,0 +1,109 @@
+/*html, body {
+    margin: 0;
+    background-color: #efefef;
+    font-family: sans-serif;
+}*/
+.wrapper1 {
+    width: 500px;
+    height: 640px;
+    padding: 5px;
+    margin: 0 auto;
+    background-color: #ddd;
+}
+#loginWrapper1 {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: rgba(5, 5, 5, .6);
+    text-align: center;
+    color: #fff;
+    display: block;
+    padding-top: 200px;
+}
+#nickWrapper1 {
+    display: none;
+}
+.banner1 {
+    height: 80px;
+    width: 100%;
+}
+.banner1 p {
+    float: left;
+    display: inline-block;
+}
+.controls1 {
+    height: 100px;
+    margin: 5px 0px;
+    position: relative;
+}
+#historyMsg1 {
+    height: 400px;
+    background-color: #fff;
+    overflow: auto;
+    padding: 2px;
+}
+#historyMsg1 img {
+    max-width: 99%;
+}
+.timespan1 {
+    color: #ddd;
+}
+.items1 {
+    height: 30px;
+}
+#colorStyle1 {
+    width: 50px;
+    border: none;
+    padding: 0;
+}
+/*custom the file input*/
+
+.imageLable1 {
+    position: relative;
+}
+#sendImage1 {
+    position: absolute;
+    width: 52px;
+    left: 0;
+    opacity: 0;
+    overflow: hidden;
+}
+/*end custom file input*/
+
+#messageInput1 {
+    width: 440px;
+    max-width: 440px;
+    height: 90px;
+    max-height: 90px;
+    float:left;
+}
+#sendBtn1 {
+    width: 50px;
+    height: 96px;
+    float: right;
+}
+#emojiWrapper1 {
+    display: none;
+    width: 500px;
+    bottom: 105px;
+    position: absolute;
+    background-color: #aaa;
+    box-shadow: 0 0 10px #555;
+}
+#emojiWrapper1 img {
+    margin: 2px;
+    padding: 2px;
+    width: 25px;
+    height: 25px;
+}
+#emojiWrapper1 img:hover {
+    background-color: blue;
+}
+.emoji{
+    display: inline;
+}
+footer {
+    text-align: center;
+}
